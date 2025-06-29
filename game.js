@@ -39,11 +39,6 @@
     });
    });
 
-
-   // const boxcolor = () => {
-   // box.Style.backgroundColor = "blue";
-   // };
-
  const enableBoxes = () => {
     for(let box of boxes) {
         box.disabled = false;
